@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1546
+slug  : the-signal-detection
+seal  : a99ad8a5b6eade3778422d2ac22e8b78fd21e50b7b9a87c4990dd6b217e6b963
+prev  : 27115e70a455b74c4fc95eb254be1b63405379cad3e1d9775662b2fcb0e1475a
+link  : 0a22d92e5f807ea0749b309795c3d6a4be501097278f0733170818a07dfa5d58
+head  : 99efc8b5f17a92229cef22a356cedf898f4d2aee3101642d136a6d780e26538c
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
