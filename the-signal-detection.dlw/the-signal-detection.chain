@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 1546
 slug  : the-signal-detection
-seal  : a99ad8a5b6eade3778422d2ac22e8b78fd21e50b7b9a87c4990dd6b217e6b963
-prev  : 27115e70a455b74c4fc95eb254be1b63405379cad3e1d9775662b2fcb0e1475a
-link  : 0a22d92e5f807ea0749b309795c3d6a4be501097278f0733170818a07dfa5d58
-head  : 99efc8b5f17a92229cef22a356cedf898f4d2aee3101642d136a6d780e26538c
+seal  : 43a46143a86c85c54808541b4b0562d4999ce90c2403307224a262aa5eede5f9
+prev  : fb5a42ca5e966cde606bde69bd14842e44892fe8e5a42f65e418d8e25d716d08
+link  : 3629595f3e7acc21980aa78c93d223163e84d0964ea0b8630994ee40a20d3464
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
